@@ -15,7 +15,7 @@ Aspiring Data Scientist / AI-ML Engineer, B.Tech CSE (2026). I build end-to-end 
 AI-powered resume analyzer using Gemini LLM, Prompt Engineering, and NLP for ATS scoring, resume parsing, skill gap analysis, and job description matching. Built with Python and Streamlit.
 
 **[Credit Card Fraud Detection](https://github.com/BRoshini-15/CreditcardFraudDetection)**
-Benchmarked Decision Trees, SVM, KNN, and Logistic Regression on highly imbalanced data, Used SMOTE and StandardScaler to achieve **0.9854 AUC** and **0.1687 Precision**.
+Benchmarked Decision Trees, SVM, KNN, and Logistic Regression on highly imbalanced data, Used SMOTE and StandardScaler to achieve **0.9854 AUC** and **96.55\% recall**.
 
 ---
 
