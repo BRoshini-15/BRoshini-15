@@ -1,6 +1,6 @@
 ### Hi, I'm Baikan Roshini 👋
 
-Aspiring Data Scientist / AI/ML Engineer, B.Tech CSE (2026). I build end-to-end ML and NLP solutions — from prompt engineering with LLMs to fraud detection models with enterprise-grade accuracy.
+Aspiring Data Scientist, B.Tech CSE (2026). I build end-to-end ML and NLP solutions — from prompt engineering with LLMs to fraud detection models with enterprise-grade accuracy.
 
 - 🔭 Currently working on **AI Resume Analyzer** as a Data Science Intern at Unified Mentor
 - 🌱 Exploring LLMs, Prompt Engineering, and applied NLP
