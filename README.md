@@ -11,6 +11,9 @@ Aspiring Data Scientist, B.Tech CSE (2026). I build end-to-end ML and NLP soluti
 
 ### 🚀 Featured Projects
 
+**[Nassau_Candy_Distributor](https://github.com/BRoshini-15/Nassau_Candy_Distributor)**
+Developed an interactive Streamlit dashboard with KPI, geographic and shipping analysis.Analyzed 10K+ records using Python, Pandas and NumPy for sales, profit and distribution insights.
+
 **[AI Resume Analyzer](https://github.com/BRoshini-15/AI-Resume-Analyzer)**
 AI-powered resume analyzer using Gemini LLM, Prompt Engineering, and NLP for ATS scoring, resume parsing, skill gap analysis, and job description matching. Built with Python and Streamlit.
 
@@ -22,7 +25,7 @@ Benchmarked Decision Trees, SVM, KNN, and Logistic Regression on highly imbalanc
 ### 🛠️ Tech Stack
 
 - **Languages:** Python · SQL · C
-- **ML/AI:** Scikit-Learn · NLP · LLMs · Prompt Engineering
+- **ML/AI:** Scikit-Learn · NLP · LLMs
 - **Data:** Pandas · NumPy · Tableau
 - **Tools:** Streamlit · Git/GitHub
 
