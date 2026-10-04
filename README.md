@@ -3,7 +3,7 @@
 Aspiring Data Scientist  with hands-on experience in Python, SQL, machine learning, EDA and interactive analytics. Experienced in building ML models, data-driven dashboards and NLP/LLM applications using Scikit-learn, Pandas, Streamlit and Plotly.
 
 
-- 🔭 Currently working on **Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributorr** as a Data Science Intern at Unified Mentor
+- 🔭 Currently working on **Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributor** as a Data Science Intern at Unified Mentor
 - 🌱 Exploring ML, LLMs and applied NLP
 - 💼 Open to entry-level **Data Scientist / Data Analyst / AI-ML Engineer** roles
 - 📫 Reach me at **baikanroshini1257@gmail.com** or [LinkedIn](https://www.linkedin.com/in/baikanrosh07)
@@ -12,7 +12,7 @@ Aspiring Data Scientist  with hands-on experience in Python, SQL, machine learni
 
 ### 🚀 Featured Projects
 
-**[Nassau_Candy_Distributor](https://github.com/BRoshini-15/Nassau_Candy_Distributor)**
+**[Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributor](https://github.com/BRoshini-15/Nassau_Candy_Distributor)**
 Developed an interactive Streamlit dashboard with KPI, geographic and shipping analysis.Analyzed 10K+ records using Python, Pandas and NumPy for sales, profit and distribution insights.
 
 **[AI Resume Analyzer](https://github.com/BRoshini-15/AI-Resume-Analyzer)**
