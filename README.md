@@ -3,7 +3,7 @@
 Aspiring Data Scientist, B.Tech CSE (2026). I build end-to-end ML and NLP solutions — from prompt engineering with LLMs to fraud detection models with enterprise-grade accuracy.
 
 - 🔭 Currently working on **Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributorr** as a Data Science Intern at Unified Mentor
-- 🌱 Exploring LLMs, Prompt Engineering, and applied NLP
+- 🌱 Exploring ML, LLMs and applied NLP
 - 💼 Open to entry-level **Data Scientist / Data Analyst / AI-ML Engineer** roles
 - 📫 Reach me at **baikanroshini1257@gmail.com** or [LinkedIn](https://www.linkedin.com/in/baikanrosh07)
 
