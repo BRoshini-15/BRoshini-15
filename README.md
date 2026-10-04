@@ -15,9 +15,6 @@ Aspiring Data Scientist  with hands-on experience in Python, SQL, machine learni
 **[Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributor](https://github.com/BRoshini-15/Nassau_Candy_Distributor)**
 Developed an interactive Streamlit dashboard with KPI, geographic and shipping analysis.Analyzed 10K+ records using Python, Pandas and NumPy for sales, profit and distribution insights.
 
-**[AI Resume Analyzer](https://github.com/BRoshini-15/AI-Resume-Analyzer)**
-AI-powered resume analyzer using Gemini LLM, Prompt Engineering, and NLP for ATS scoring, resume parsing, skill gap analysis, and job description matching. Built with Python and Streamlit.
-
 **[Credit Card Fraud Detection](https://github.com/BRoshini-15/CreditcardFraudDetection)**
 Benchmarked Decision Trees, SVM, KNN, and Logistic Regression on highly imbalanced data, Used SMOTE and StandardScaler to achieve **0.9854 AUC** and **96.55\% recall**.
 
