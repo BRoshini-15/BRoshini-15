@@ -1,6 +1,7 @@
 ### Hi, I'm Baikan Roshini 👋
 
-Aspiring Data Scientist, B.Tech CSE (2026). I build end-to-end ML and NLP solutions — from prompt engineering with LLMs to fraud detection models with enterprise-grade accuracy.
+Aspiring Data Scientist  with hands-on experience in Python, SQL, machine learning, EDA and interactive analytics. Experienced in building ML models, data-driven dashboards and NLP/LLM applications using Scikit-learn, Pandas, Streamlit and Plotly.
+
 
 - 🔭 Currently working on **Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributorr** as a Data Science Intern at Unified Mentor
 - 🌱 Exploring ML, LLMs and applied NLP
