@@ -5,7 +5,7 @@ Aspiring Data Scientist  with hands-on experience in Python, SQL, machine learni
 
 - 🔭 Currently working on **Factory-to-Customer Shipping Route Efficiency Analysis for Nassau Candy Distributor** as a Data Science Intern at Unified Mentor
 - 🌱 Exploring Pandas, NumPy, Scikit-learn, EDA, Feature Engineering
-- 💼 Open to entry-level **Data Scientist / Data Analyst / AI-ML Engineer** roles
+- 💼 Open to entry-level **Data Scientist / Data Analyst / ML Engineer** roles
 - 📫 Reach me at **baikanroshini1257@gmail.com** or [LinkedIn](https://www.linkedin.com/in/baikanrosh07)
 
 ---
